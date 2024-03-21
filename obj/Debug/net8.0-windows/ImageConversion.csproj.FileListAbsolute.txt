@@ -1,0 +1,40 @@
+C:\Users\shkorbatov\source\repos\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.exe
+C:\Users\shkorbatov\source\repos\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.deps.json
+C:\Users\shkorbatov\source\repos\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.runtimeconfig.json
+C:\Users\shkorbatov\source\repos\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.dll
+C:\Users\shkorbatov\source\repos\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.pdb
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion_MarkupCompile.cache
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion_MarkupCompile.lref
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.g.resources
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.AssemblyInfoInputs.cache
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.AssemblyInfo.cs
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.csproj.CoreCompileInputs.cache
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.dll
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\refint\ImageConversion.dll
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.pdb
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.genruntimeconfig.cache
+C:\Users\shkorbatov\source\repos\ImageConversion\obj\Debug\net8.0-windows\ref\ImageConversion.dll
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.exe
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.deps.json
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.runtimeconfig.json
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.dll
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\bin\Debug\net8.0-windows\ImageConversion.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion_MarkupCompile.cache
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion_MarkupCompile.lref
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.g.resources
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.dll
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\refint\ImageConversion.dll
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ImageConversion.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Рабочий стол\ImageConversion\obj\Debug\net8.0-windows\ref\ImageConversion.dll
